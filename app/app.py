@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-from PIL import Image
 
 from counting import load_salary_data, load_inflation_data, calculate_real_salaries
 
